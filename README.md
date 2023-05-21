@@ -26,7 +26,6 @@ and my code resulted in 14 features:
 ```
 'id',':@computed_region_cbhk_fwbd','name',':@computed_region_nnqa_25f4','fall','geolocation_coordinates_1','geolocation_coordinates_2','geolocation_type','mass','nametype','recclass','reclat','reclong','year'
  ```
-## Usage 
 ## Installation
 
 1. Clone the repository or download the source code files.
